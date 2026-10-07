@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NetSwitch" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1E6FD9</item>
+        <item name="colorPrimaryDark">#1557AD</item>
+        <item name="colorAccent">#1E6FD9</item>
+    </style>
+    <color name="ic_bg">#1E6FD9</color>
+</resources>
